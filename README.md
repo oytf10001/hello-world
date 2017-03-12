@@ -1,3 +1,3 @@
 # hello-world
-just for test
+just for tests
 this is the first
